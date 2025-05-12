@@ -10,7 +10,7 @@ header{
 }
 
 header>h1 {
-  font-family: "Cormorant Garamond", serif;
+  font-family: Cormorant Garamond, serif;
   font-optical-sizing: auto;
   font-weight: bold;
   font-style:oblique;
@@ -20,7 +20,7 @@ header>h1 {
 
 header>span{
 
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
   font-size: 40px;
   transition: font-size 30% ease-out;
 }
@@ -49,7 +49,7 @@ header>span{
 .nombre{
   font-size: 16px;
   align-items: center;
-  background-image: linear-gradient(to right, #ff7e5f, #feb47b); /* Degradado suave */
+  background-image: linear-gradient(to right, red, rgb(254, 180, 123)); /* Degradado suave */
   height: 100vh;
   padding: 10px;
 }
